@@ -1,9 +1,12 @@
 # Guided Diffusion Sampling on Function Spaces with Applications to PDEs
 
-### [FunDPS Paper](https://www.arxiv.org/abs/2505.17004)
+*Accepted to NeurIPS 2025!*
+
+### [FunDPS 📝Paper](https://www.arxiv.org/abs/2505.17004) [🌐Website](https://fundps.scientific.ml/)
+
 Official PyTorch implementation of **Guided Diffusion Sampling on Function Spaces with Applications to PDEs**<br>
 Jiachen Yao\*, Abbas Mammadov\*, Julius Berner, Gavin Kerrigan, Jong Chul Ye, Kamyar Azizzadenesheli, Anima Anandkumar<br>
-Caltech, NVIDIA, Oxford, KAIST<br>
+Caltech, NVIDIA, University of Oxford, KAIST<br>
 \*Equal contribution
 
 ![FunDPS](docs/FunDPS.png)
