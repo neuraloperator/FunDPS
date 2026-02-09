@@ -49,7 +49,7 @@ To initialize the wandb environment, run:
 wandb init
 ```
 
-For generation, download the pre-trained model weights from [here](https://drive.google.com/drive/folders/1mBnSX69f2xwUs9KA37fA_eqbOg0o8AbU?usp=sharing) and update the `.pkl` paths in the corresponding config files under `configs/generation/`.
+For generation, download [the pre-trained model weights from here](https://zenodo.org/records/18562619) and update the `.pkl` paths in the corresponding config files under `configs/generation/`.
 
 ## Usage
 
